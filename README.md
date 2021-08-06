@@ -3,6 +3,6 @@ The purpose of this repository is to showcase arbitrary chunks of code that I ha
 
 # Works constained:
 
-## random_sampling
+## random_sampling (IN PROGRESS)
 
-The purpose of this repository is to see the timing effects of two different algorithms for sampling an arbitrary discrete distribution.
+The purpose of this repository is to see the timing effects of two different algorithms for sampling an arbitrary discrete distribution. Does not work for pretty obvious reasons
